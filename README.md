@@ -163,3 +163,5 @@ flutter run
 ---
 
 ## Capturas de pantalla
+<img width="1365" height="767" alt="Captura de pantalla 2026-10-12 190507" src="https://github.com/user-attachments/assets/4bb48a1e-23bb-443d-9964-9241da9ef048" />
+<img width="1365" height="767" alt="Captura de pantalla 2026-10-12 190536" src="https://github.com/user-attachments/assets/de6da9be-5ab5-44a7-964e-a78c04be42a1" />
